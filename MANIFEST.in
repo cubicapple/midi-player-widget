@@ -1,0 +1,2 @@
+recursive-include midi_player_widget/static *.*
+include midi-player-widget.json
